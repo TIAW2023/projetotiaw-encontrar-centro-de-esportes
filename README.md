@@ -7,7 +7,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Diego Alves Teixeira
 * Igor Gontijo Resende
 * Elisa Andrade de Almeida
-* Nome completo do aluno 4
+* Messias Junio da Silva
 * Nome completo do aluno 4
 * Nome completo do aluno 4
 
